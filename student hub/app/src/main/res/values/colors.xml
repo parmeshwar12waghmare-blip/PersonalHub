@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#6200EE</color>
+    <color name="primaryVariant">#3700B3</color>
+    <color name="secondary">#03DAC6</color>
+    <color name="background_gradient_start">#E0EAFC</color>
+    <color name="background_gradient_end">#CFDEF3</color>
+    <color name="glass_white">#4DFFFFFF</color>
+</resources>
